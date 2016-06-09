@@ -10,5 +10,5 @@ Package `spTMP`
 ------------------------------------------------------------------------
 
 <p align="right">
-File updated on <b>2016-06-09</b> with version of package <b>0.0.9</b>
+File updated on <b>2016-06-10</b> with version of package <b>0.0.10</b>
 </p>
