@@ -19,22 +19,6 @@ functions that modify strings, etc. \cr
 
 Functions in \code{spMisc} by topic
 }
-\section{Regular expressions}{
-
-
-\code{\link{regcapturedmatches}} \cr
-\code{\link{regexp2df}} \cr
-}
-
-\section{Various}{
-
-
-
-\code{\link{bru}} \cr
-\code{\link{fCap}} \cr
-\code{\link{make_firstCapitals}} \cr
-\code{\link{list_functions}} \cr
-}
 \examples{
 
 \donttest{

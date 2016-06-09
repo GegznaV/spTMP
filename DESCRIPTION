@@ -1,7 +1,7 @@
 Package: spTMP
 Type: Package
 Title: Temporary Package To Test Functions of `sp` Family Packages
-Version: 0.0.2
+Version: 0.0.3
 Description: Temporary package to test functions of `sp` family packages and
              debug errors in them.
 Date: 2016-06-09
