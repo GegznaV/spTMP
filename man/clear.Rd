@@ -121,6 +121,7 @@ Remove objects from a specified environment \code{\link[base]{rm}},
          list objects \code{\link[base]{ls}}.
 
 Other \pkg{spMisc} utilities: \code{\link{bru}},
-  \code{\link{clc}}, \code{\link{fCap}}
+  \code{\link{clc}}, \code{\link{fCap}},
+  \code{\link{regexp2df}}
 }
 

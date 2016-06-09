@@ -10,5 +10,5 @@ Temporary package to test functions of `sp` family packages and debug errors in 
 ------------------------------------------------------------------------
 
 <p align="right">
-File updated on <b>2016-06-09</b> with version of package <b>0.0.1</b>
+File updated on <b>2016-06-09</b> with version of package <b>0.0.5</b>
 </p>
