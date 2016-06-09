@@ -1,30 +1,4 @@
-#' [.] Extract regular expression matches captured by names
-#'
-#' regcapturedmatches.R: extracts captured matches from match data obtained
-#'  by regexpr, gregexpr or regexec.
-#'
-#'
-#' @param x (A list of) strings.
-#' @param m Parsed data, a result from a regular expression function.
-#'
-#' @return A list with captured matches
-#'
-#'
-#' @author Daniel Marcelino / MrFlick
-#' @source
-#' \url{https://gist.github.com/danielmarcelino/8209cfdf2cd993eeb1b3}\cr
-#'
-#' \url{https://gist.github.com/MrFlick/10413321}\cr
-#'
-#' \url{http://stackoverflow.com/questions/33288075/from-matlab-to-r-capture-named-fields-with-regular-expressions-to-a-dataframe}
-#'
-#' @examples
-#'
-#' x<-c("larry:35,M","alison:22,F","dave","lily:55,F")
-#' m<-regexpr("(.*):(\\d+),([MF])", x, perl=TRUE)
-#' spTMP:::regcapturedmatches(x,m)
-#'
-# @export
+
 regcapturedmatches <- function(x,m) {
   if (length(x) != length(m))
     stop(gettextf("%s and %s must have the same length",
