@@ -33,8 +33,8 @@ data frame.
 }
 \details{
 The syntax how to use \bold{named tokens} is: \cr
-'\emph{...}\bold{(?<}\emph{...}>\emph{...})\emph{...}' \cr
-'\emph{expr1}\bold{(?<}\emph{Name}\bold{>}\emph{expr-to-capture}\bold{)}\emph{expr2}'
+'...(?<...>...)...' \cr
+'expr1(?<Name>expr-to-capture)expr2'
 
 \itemize{
   \item{\bold{Name} - the name of the token.\emph{Note:} that spaces and
