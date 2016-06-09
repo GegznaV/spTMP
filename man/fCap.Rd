@@ -26,7 +26,6 @@ fCap('laa laa laa')
 }
 \seealso{
 Other \pkg{spMisc} utilities: \code{\link{bru}},
-  \code{\link{clc}}, \code{\link{clear}},
-  \code{\link{regexp2df}}
+  \code{\link{clc}}, \code{\link{clear}}
 }
 

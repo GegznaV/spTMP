@@ -5,7 +5,7 @@
 Package `spTMP`
 ===============
 
-Temporary package to test functions of `sp` family packages and debug errors in them.
+:warning: Temporary package to test functions of `sp` family packages and debug errors in them.
 
 ------------------------------------------------------------------------
 
