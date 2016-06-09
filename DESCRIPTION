@@ -1,0 +1,28 @@
+Package: spTMP
+Type: Package
+Title: Temporary Package To Test Functions of `sp` Family Packages
+Version: 0.0.1
+Description: Temporary package to test functions of `sp` family packages and
+             debug errors in them.
+Date: 2016-06-09
+Encoding: UTF-8
+Authors@R: person("Vilmantas", "Gegzna", email = "GegznaV@gmail.com", role = c("aut", "cre"))
+License: GPL (>= 3)
+LazyData: yes
+LazyLoad: yes
+RoxygenNote: 5.0.1
+Depends:
+    R (>= 3.2),
+    magrittr
+Imports:
+    pander,
+    pkgmaker,
+    dplyr,
+    utils
+Suggests:
+    knitr,
+    rmarkdown,
+    testthat,
+    covr,
+    devtools,
+    spAddins
