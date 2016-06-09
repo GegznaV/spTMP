@@ -10,13 +10,15 @@
 #' @return A list with captured matches
 #'
 #'
-#' @author Daniel Marcelino (MrFlick)
+#' @author Daniel Marcelino / MrFlick
 #' @source
-#' \url{https://gist.github.com/danielmarcelino/8209cfdf2cd993eeb1b3}[github.com/danielmarcelino]
-#' \url{https://gist.github.com/MrFlick/10413321}
+#' \url{https://gist.github.com/danielmarcelino/8209cfdf2cd993eeb1b3}\cr
+#'
+#' \url{https://gist.github.com/MrFlick/10413321}\cr
+#'
 #' \url{http://stackoverflow.com/questions/33288075/from-matlab-to-r-capture-named-fields-with-regular-expressions-to-a-dataframe}
+#'
 #' @examples
-#' # usage
 #'
 #' x<-c("larry:35,M","alison:22,F","dave","lily:55,F")
 #' m<-regexpr("(.*):(\\d+),([MF])", x, perl=TRUE)
