@@ -11,6 +11,6 @@ Clears console. I.e. does the same as pressing \code{CTRL + L}.
 }
 \seealso{
 Other \pkg{spMisc} utilities: \code{\link{bru}},
-  \code{\link{clear}}
+  \code{\link{clear}}, \code{\link{fCap}}
 }
 

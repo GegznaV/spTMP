@@ -99,6 +99,6 @@ Vilmantas Gegzna
 }
 \seealso{
 Other \pkg{spMisc} utilities: \code{\link{clc}},
-  \code{\link{clear}}
+  \code{\link{clear}}, \code{\link{fCap}}
 }
 
